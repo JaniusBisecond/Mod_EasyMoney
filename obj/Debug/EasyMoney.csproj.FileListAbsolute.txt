@@ -1,0 +1,8 @@
+D:\Steam\steamapps\common\觅长生\BepInEx\plugins\EasyMoney.dll
+D:\Steam\steamapps\common\觅长生\BepInEx\plugins\EasyMoney.pdb
+D:\Mod\myMod\EsayMoney\EasyMoney\obj\Debug\EasyMoney.csproj.AssemblyReference.cache
+D:\Mod\myMod\EsayMoney\EasyMoney\obj\Debug\EasyMoney.csproj.CoreCompileInputs.cache
+D:\Mod\myMod\EsayMoney\EasyMoney\obj\Debug\EasyMoney.dll
+D:\Mod\myMod\EsayMoney\EasyMoney\obj\Debug\EasyMoney.pdb
+D:\Steam\steamapps\common\觅长生\本地Mod测试\EasyMoney\plugins\EasyMoney.dll
+D:\Steam\steamapps\common\觅长生\本地Mod测试\EasyMoney\plugins\EasyMoney.pdb
